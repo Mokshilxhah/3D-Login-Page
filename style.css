@@ -16,7 +16,7 @@ body.account-page{
     align-items: center;
     justify-content: center;
 
-    background-image: url(77.jpg);
+    background-image: url(Login_Bg.png);
     object-fit: cover;
     background-size: 100%;
     overflow: hidden;
@@ -245,5 +245,6 @@ body.account-page {
     background: #1877f2;
     color: white;
 }
+
 
 
